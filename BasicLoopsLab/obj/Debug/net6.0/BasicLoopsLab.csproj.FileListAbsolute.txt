@@ -1,0 +1,15 @@
+C:\Users\Keyyeopda\source\repos\BasicLoopsLab\BasicLoopsLab\bin\Debug\net6.0\BasicLoopsLab.exe
+C:\Users\Keyyeopda\source\repos\BasicLoopsLab\BasicLoopsLab\bin\Debug\net6.0\BasicLoopsLab.deps.json
+C:\Users\Keyyeopda\source\repos\BasicLoopsLab\BasicLoopsLab\bin\Debug\net6.0\BasicLoopsLab.runtimeconfig.json
+C:\Users\Keyyeopda\source\repos\BasicLoopsLab\BasicLoopsLab\bin\Debug\net6.0\BasicLoopsLab.dll
+C:\Users\Keyyeopda\source\repos\BasicLoopsLab\BasicLoopsLab\bin\Debug\net6.0\BasicLoopsLab.pdb
+C:\Users\Keyyeopda\source\repos\BasicLoopsLab\BasicLoopsLab\obj\Debug\net6.0\BasicLoopsLab.csproj.AssemblyReference.cache
+C:\Users\Keyyeopda\source\repos\BasicLoopsLab\BasicLoopsLab\obj\Debug\net6.0\BasicLoopsLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keyyeopda\source\repos\BasicLoopsLab\BasicLoopsLab\obj\Debug\net6.0\BasicLoopsLab.AssemblyInfoInputs.cache
+C:\Users\Keyyeopda\source\repos\BasicLoopsLab\BasicLoopsLab\obj\Debug\net6.0\BasicLoopsLab.AssemblyInfo.cs
+C:\Users\Keyyeopda\source\repos\BasicLoopsLab\BasicLoopsLab\obj\Debug\net6.0\BasicLoopsLab.csproj.CoreCompileInputs.cache
+C:\Users\Keyyeopda\source\repos\BasicLoopsLab\BasicLoopsLab\obj\Debug\net6.0\BasicLoopsLab.dll
+C:\Users\Keyyeopda\source\repos\BasicLoopsLab\BasicLoopsLab\obj\Debug\net6.0\refint\BasicLoopsLab.dll
+C:\Users\Keyyeopda\source\repos\BasicLoopsLab\BasicLoopsLab\obj\Debug\net6.0\BasicLoopsLab.pdb
+C:\Users\Keyyeopda\source\repos\BasicLoopsLab\BasicLoopsLab\obj\Debug\net6.0\BasicLoopsLab.genruntimeconfig.cache
+C:\Users\Keyyeopda\source\repos\BasicLoopsLab\BasicLoopsLab\obj\Debug\net6.0\ref\BasicLoopsLab.dll

@@ -1,0 +1,15 @@
+C:\Users\Keyyeopda\source\repos\BasicLoopsLab\dowhilekeypad\bin\Debug\net6.0\dowhilekeypad.exe
+C:\Users\Keyyeopda\source\repos\BasicLoopsLab\dowhilekeypad\bin\Debug\net6.0\dowhilekeypad.deps.json
+C:\Users\Keyyeopda\source\repos\BasicLoopsLab\dowhilekeypad\bin\Debug\net6.0\dowhilekeypad.runtimeconfig.json
+C:\Users\Keyyeopda\source\repos\BasicLoopsLab\dowhilekeypad\bin\Debug\net6.0\dowhilekeypad.dll
+C:\Users\Keyyeopda\source\repos\BasicLoopsLab\dowhilekeypad\bin\Debug\net6.0\dowhilekeypad.pdb
+C:\Users\Keyyeopda\source\repos\BasicLoopsLab\dowhilekeypad\obj\Debug\net6.0\dowhilekeypad.csproj.AssemblyReference.cache
+C:\Users\Keyyeopda\source\repos\BasicLoopsLab\dowhilekeypad\obj\Debug\net6.0\dowhilekeypad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keyyeopda\source\repos\BasicLoopsLab\dowhilekeypad\obj\Debug\net6.0\dowhilekeypad.AssemblyInfoInputs.cache
+C:\Users\Keyyeopda\source\repos\BasicLoopsLab\dowhilekeypad\obj\Debug\net6.0\dowhilekeypad.AssemblyInfo.cs
+C:\Users\Keyyeopda\source\repos\BasicLoopsLab\dowhilekeypad\obj\Debug\net6.0\dowhilekeypad.csproj.CoreCompileInputs.cache
+C:\Users\Keyyeopda\source\repos\BasicLoopsLab\dowhilekeypad\obj\Debug\net6.0\dowhilekeypad.dll
+C:\Users\Keyyeopda\source\repos\BasicLoopsLab\dowhilekeypad\obj\Debug\net6.0\refint\dowhilekeypad.dll
+C:\Users\Keyyeopda\source\repos\BasicLoopsLab\dowhilekeypad\obj\Debug\net6.0\dowhilekeypad.pdb
+C:\Users\Keyyeopda\source\repos\BasicLoopsLab\dowhilekeypad\obj\Debug\net6.0\dowhilekeypad.genruntimeconfig.cache
+C:\Users\Keyyeopda\source\repos\BasicLoopsLab\dowhilekeypad\obj\Debug\net6.0\ref\dowhilekeypad.dll
